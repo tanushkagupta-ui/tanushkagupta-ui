@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 - 💬 Let's connect and chat about data, analytics, or anything else!
 - 📫 You can reach me at tanishkagupta152@gmail.com.
 - 😄 Pronouns: she/her.
+  
 
 ## Fun Fact
 
